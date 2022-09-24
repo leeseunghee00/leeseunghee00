@@ -16,10 +16,10 @@
 <br/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   
-<br/>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghee00&layout=compact)](https://github.com/leeseunghee00/github-readme-stats)
 
-<br/>
+<br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghee00&show_icons=true&theme=gotham)
