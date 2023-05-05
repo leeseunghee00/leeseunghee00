@@ -29,5 +29,5 @@ Hello, I'm studying to become a backend developer.
 
 <br>
 
-| <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SeungheeLee&theme=algolia&show_icons=true" /></a> | <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghee00&layout=compact&theme=algolia" /></a> |
+| <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=leeseunghee00&theme=algolia&show_icons=true" /></a> | <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghee00&layout=compact&theme=algolia" /></a> |
 | ------------- | ------------- |
