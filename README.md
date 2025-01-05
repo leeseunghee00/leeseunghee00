@@ -1,33 +1,32 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seunghee%20Lee&fontColor=#&fontSize=90" />
+# 🧸 Seunghee's GitHub
 
-### 👋 Introduce
-Hello, I'm studying to become a backend developer.
+체계적인 정리와 공유로 팀의 협업을 이끌어가는 **백엔드 개발자 이승희**입니다. <br />
+기록하는 것을 좋아하며, 논리적인 사고를 바탕으로 더 나은 해결책을 만들어내고자 노력합니다.
 
-<br>
+## _Tech Post._
 
-### 💻 Tech Stack 
-<a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-</a>
-<br><br>
+- [TIL](https://github.com/leeseunghee00/TIL) : 하루동안 공부한 것을 기록합니다.
+- [Velog](https://velog.io/@leeseunghee00/posts) : 개발 중 고민한 주요 이슈와 회고를 공유합니다.
 
-### 🌿 Blog
-<p align="center">
-  <a href="https://velog.io/@leeseunghee00"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@leeseunghee00"/></a>&nbsp
-  <a href="https://www.instagram.com/leesxxnghee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leesxxnghee/"/></a>&nbsp
-  <a href="mailto:lsh9246@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lsh9246@gmail.com"/></a>
-</p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=leeseunghee00)](https://velog.io/@leeseunghee00) 
 
-<br>
+## _Experience._
+### 2024
 
-#### 
+- `2024.06 ~ 2024.12` LG U+ 유레카 백엔드 1기 수료 (🏆 종합프로젝트 [**아이북조아**](https://github.com/ureca-Integrated/backend) 최우수상)
+- `2024.03` MetLife 해커톤 참가
+- `2024.01` 한국 HCI 학회 학술대회 참가 (🏆 우수 논문상)
+
+### 2023
+
+- `2023.11` HBNU 제12회 정보기술대학작품전시회 - [**MUSE**](https://github.com/leeseunghee00/muse-backend) (🏆 금상)
+- `2023.11` HBNU 산학협력 Fair 캡스톤디자인 경진대회 참가
+
+## _Contact._
+
+<a href="mailto:lsh9246@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%8A%B9%ED%9D%AC-%EC%9D%B4-6838a72a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseunghee00%2Fhit-counter&count_bg=%23ff7b7b&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsh9246)](https://solved.ac/lsh9246)
 
-<br>
-
-| <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=leeseunghee00&theme=algolia&show_icons=true" /></a> | <a href="https://github.com/leeseunghee00/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghee00&layout=compact&theme=algolia" /></a> |
-| ------------- | ------------- |
