@@ -10,18 +10,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=leeseunghee00)](https://velog.io/@leeseunghee00) 
 
-## _Experience._
-### 2024
-
-- `2024.06 ~ 2024.12` LG U+ 유레카 백엔드 1기 수료 (🏆 종합프로젝트 [**아이북조아**](https://github.com/ureca-Integrated/backend) 최우수상)
-- `2024.03` MetLife 해커톤 참가
-- `2024.01` 한국 HCI 학회 학술대회 참가 (🏆 우수 논문상)
-
-### 2023
-
-- `2023.11` HBNU 제12회 정보기술대학작품전시회 - [**MUSE**](https://github.com/leeseunghee00/muse-backend) (🏆 금상)
-- `2023.11` HBNU 산학협력 Fair 캡스톤디자인 경진대회 참가
-
 ## _Contact._
 
 <a href="mailto:lsh9246@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
