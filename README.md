@@ -15,6 +15,6 @@
 <a href="mailto:lsh9246@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%8A%B9%ED%9D%AC-%EC%9D%B4-6838a72a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseunghee00%2Fhit-counter&count_bg=%23ff7b7b&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
+[![Hits](https://komarev.com/ghpvc/?username=leeseunghee00&abbreviated=true_bg=%23ff7b7b&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsh9246)](https://solved.ac/lsh9246)
 
